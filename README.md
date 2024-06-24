@@ -6,4 +6,5 @@ We test inviting collaborators.
 ## anything
 ## changing remotely
 ## change nr2
-## change nr3
+## change nr3 local
+## change nr4 remote

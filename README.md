@@ -5,3 +5,4 @@ We test inviting collaborators.
 
 ## Michael, Pizza
 ## Alex, Pizza too
+## Mitali, All Indian Veg
